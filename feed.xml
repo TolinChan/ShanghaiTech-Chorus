@@ -4,11 +4,11 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">  
   <channel>  
     <!-- 频道整体信息 -->  
-    <title>ShanghaiTech Chorus</title>  
+    <title>上海科技大学尘音合唱团</title>  
     <link>https://tolinchan.github.io/ShanghaiTech-Chorus/</link>  
-    <description>上海科技大学尘音合唱团音频</description>  
+    <description>上海科技大学尘音合唱团音频合集</description>  
     <atom:link href="https://tolinchan.github.io/ShanghaiTech-Chorus/feed.xml" rel="self" type="application/rss+xml"/>  
-    <itunes:author>ShanghaiTech Chorus</itunes:author>  
+    <itunes:author>尘音合唱团</itunes:author>  
     <itunes:explicit>no</itunes:explicit>  
     <itunes:summary>这里是上海科技大学尘音合唱团，欢迎回家</itunes:summary>  
     <!-- 可选：频道封面 -->  
