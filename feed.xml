@@ -9,7 +9,7 @@
     <description>上海科技大学尘音合唱团音频合集</description>  
     <atom:link href="https://tolinchan.github.io/ShanghaiTech-Chorus/feed.xml" rel="self" type="application/rss+xml"/>  
     <itunes:author>尘音合唱团</itunes:author>  
-    <itunes:explicit>no</itunes:explicit>  
+    <itunes:explicit>false</itunes:explicit>  
     <itunes:summary>这里是上海科技大学尘音合唱团，欢迎回家</itunes:summary>  
     <!-- 可选：频道封面 -->  
     <itunes:image href="https://tolinchan.github.io/ShanghaiTech-Chorus/cover.jpg"/>   
@@ -17,11 +17,11 @@
     <!-- 播客节目示例：飞云之下 -->  
     <item>  
       <title> 飞云之下 </title>  
-      <link>https://tolinchan.github.io/ShanghaiTech-Chorus/audio/飞云之下.wav</link>  
+      <link>https://tolinchan.github.io/ShanghaiTech-Chorus/audio/fei yun zhi xia.wav</link>  
       <description>飞云之下</description>  
       <pubDate>Tue, 28 Jan 2025 10:00:00 +0000</pubDate>  
       <!-- 播客音频信息 -->  
-      <enclosure url="https://tolinchan.github.io/ShanghaiTech-Chorus/audio/飞云之下.wav" length="41236670" type="audio/wav"/>  
+      <enclosure url="https://tolinchan.github.io/ShanghaiTech-Chorus/audio/fei yun zhi xia.wav" length="41236670" type="audio/wav"/>  
       <itunes:duration>00:03:53</itunes:duration>  
     </item>  
     
